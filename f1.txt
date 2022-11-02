@@ -1,4 +1,7 @@
 Hi,this is batch 1.
 
 <modified here on>
-Hi, this is somu.
+Good morning all.
+
+<Some text>
+This is another new text.
